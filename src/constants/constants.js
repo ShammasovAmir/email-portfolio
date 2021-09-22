@@ -35,6 +35,24 @@ export const projects = [
     visit: 'https://google-play-transactional-email.netlify.app',
     id: 3,
   },
+  {
+    title: 'Landing Page 2',
+    description:
+      'Created a landing page template for Mercedes. Made using Parcel and Vanilla JavaScript. Fully responsive.',
+    image: '/images/5.png',
+    tags: ['Parcel', 'JavaScript'],
+    visit: 'https://mercedes-landing-page.netlify.app',
+    id: 4,
+  },
+  {
+    title: 'Promotional Email 2',
+    description:
+      'Remade a promotional email from KAYAK using Foundation for emails. Tested with litmus. Works on mobile devices.',
+    image: '/images/6.png',
+    tags: ['Foundation', 'Sass'],
+    visit: 'https://kayak-product-email.netlify.app',
+    id: 5,
+  },
 ]
 
 export const TimeLineData = [
