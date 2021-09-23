@@ -65,13 +65,13 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>Обо мне</SectionTitle>
       <SectionText>
-        I'm an HTML email developer, specializing in creating responsive emails.
-        I'm passionate about creating successful marketing campaigns that bring
-        results to the company. <br /> If you are interested in my work, want to
-        give me a job opportunity, or just want to have a chat with me, please
-        don't hesitate to contact me.
+        Я верстальщик, специализирующийся на создании адаптивных HTML-писем и
+        лендингов. Также умею работать с графическими редакторами, такими как
+        Photoshop и Adobe XD, и с сервисами email-рассылок - навроде ConvertKit.
+        Для тестирования писем на разных почтовых клиентах использую Litmus, но
+        могу перейти на любой альтернативный сервис для тестирования.
       </SectionText>
       {/* <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

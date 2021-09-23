@@ -19,38 +19,38 @@ const Technologies = () => (
   <Section id="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Tools</SectionTitle>
+    <SectionTitle>Инструменты</SectionTitle>
     <SectionText>
-      I've used a range of technologies in the email marketing world.
+      Я использовал ряд технологий в индустрии email-маркетинга.
     </SectionText>
     <List>
       <ListItem>
         <DiHtml5 size="3rem" />
         <ListContainer>
-          <ListTitle>Email Layout</ListTitle>
+          <ListTitle>Верстка писем</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            HTML Tables and Inline CSS
+            Опыт работы с <br />
+            HTML-таблицами и внутренним CSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <FaMailBulk size="3rem" />
         <ListContainer>
-          <ListTitle>Email Services</ListTitle>
+          <ListTitle>Email-сервисы</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Litmus and ConvertKit
+            Опыт работы с <br />
+            Litmus и ConvertKit
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiPhotoshop size="3rem" />
         <ListContainer>
-          <ListTitle>Design Software</ListTitle>
+          <ListTitle>Графические редакторы</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Photoshop and AdobeXD
+            Опыт работы с <br />
+            Photoshop и AdobeXD
           </ListParagraph>
         </ListContainer>
       </ListItem>

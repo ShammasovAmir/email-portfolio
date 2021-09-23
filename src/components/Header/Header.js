@@ -25,24 +25,24 @@ const Header = () => (
             marginBottom: '20px',
           }}
         >
-          <HiMail size="3rem" /> <Span>Portfolio</Span>
+          <HiMail size="3rem" /> <Span>Портфолио</Span>
         </a>
       </Link>
     </Div1>
     <Div2>
       <li>
         <Link href="#projects">
-          <NavLink>Projects</NavLink>
+          <NavLink>Проекты</NavLink>
         </Link>
       </li>
       <li>
         <Link href="#tech">
-          <NavLink>Technologies</NavLink>
+          <NavLink>Технологии</NavLink>
         </Link>
       </li>
       <li>
         <Link href="#about">
-          <NavLink>About</NavLink>
+          <NavLink>Обо мне</NavLink>
         </Link>
       </li>
     </Div2>

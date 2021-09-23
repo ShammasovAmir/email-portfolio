@@ -29,7 +29,7 @@ export default class MyDocument extends Document {
   }
   render() {
     return (
-      <Html lang="en-GB">
+      <Html lang="ru">
         <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
@@ -37,7 +37,7 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap"
             rel="stylesheet"
           />
-          <title>Portfolio</title>
+          <title>Портфолио</title>
         </Head>
         <body>
           <Main />

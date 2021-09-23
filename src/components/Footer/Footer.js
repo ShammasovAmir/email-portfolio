@@ -19,7 +19,7 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          <LinkTitle>Эл. почта</LinkTitle>
           <LinkItem href="mailto:nomadcodr88@gmail.com">
             nomadcodr88@gmail.com
           </LinkItem>
@@ -27,7 +27,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one campaign at a time</Slogan>
+          <Slogan>Создание и запуск успешных email-кампаний.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/ShammasovAmir">

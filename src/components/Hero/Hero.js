@@ -12,13 +12,17 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Email Marketing
+        Создание и запуск
         <br />
-        Campaigns That Lead <br />
-        to Results
+        успешных <br /> email-кампаний.
       </SectionTitle>
-      <SectionText>Meet Amir.</SectionText>
-      <Button onClick={() => (window.location = '#about')}>Learn More</Button>
+      <SectionText>
+        Полный процесс создания почтовой рассылки - от дизайна и верстки до
+        массовой отправки рекламных писем покупателям.
+      </SectionText>
+      <Button onClick={() => (window.location = '#about')}>
+        Узнать больше
+      </Button>
     </LeftSection>
   </Section>
 )
