@@ -20,9 +20,7 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Инструменты</SectionTitle>
-    <SectionText>
-      Я использовал ряд технологий в индустрии email-маркетинга.
-    </SectionText>
+    <SectionText>Я использую следующие технологии:</SectionText>
     <List>
       <ListItem>
         <DiHtml5 size="3rem" />

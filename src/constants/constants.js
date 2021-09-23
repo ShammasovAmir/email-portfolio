@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Newsletter Email',
     description:
-      'Новостная рассылка хостинг-провайдера Netlify, созданное с помощью HTML-таблиц. Протестировано c Litmus. Работает на мобильных устройствах.',
+      'Новостная рассылка хостинг-провайдера Netlify, созданная с помощью HTML-таблиц. Протестировано c Litmus. Работает на мобильных устройствах.',
     image: '/images/1.png',
     tags: ['HTML Tables', 'CSS'],
     visit: 'https://netlify-newsletter-email.netlify.app',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Landing Page',
     description:
-      'Шаблон лендинговой страницы из сайта leadpages.com, созданный с помощью Parcel и Sass. Работает на мобильных устройствах.',
+      'Шаблон лендинговой страницы сайта leadpages.com, созданный с помощью Parcel и Sass. Работает на мобильных устройствах.',
     image: '/images/2.png',
     tags: ['Parcel', 'Sass', 'JavaScript'],
     visit: 'https://gala-agenci.com',
